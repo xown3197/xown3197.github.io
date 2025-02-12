@@ -1,34 +1,39 @@
 main:
 
-  - title: "Boosting Cross-spectral Unsupervised Domain Adaptation for Thermal Semantic Segmentation"
-    authors: <strong>Seokjun Kwon*</strong>, Jeongmin Shin*, Namil Kim, Soonmin Hwang, and Yukyung Choi
-    conference_short: ICRA
-    conference: International Conference on Robotics and Automation <strong>(ICRA)</strong> , 2025.
-    pdf: ./assets/files/icra_paper_240915_first_ver.pdf
+  - title: "INSANet: INtra-INter Spectral Attention Network for Effective Feature Fusion of Multispectral Pedestrian Detection"
+    authors: Sangin Lee*,  <strong>Taejoo Kim</strong>, , Jeongmin Shin, Namil Kim and Yukyung Choi
+    conference_short: Sensors
+    conference: Sensors, 2024
+    pdf: https://www.mdpi.com/1424-8220/24/4/1168
     code: 
-    image: ./assets/img/publications/icra.png
+    image: ./assets\img\publications\sensors2.webp
+    notes: <strong>(SCIE / Q2 / IF 3.847)</strong>
     
-  - title: "A Two-Stage Framework for Small Character Detection in the Manufacturing Industry"
-    authors: Yunseo Jeong*, <strong>Seokjun Kwon*</strong>, Jeongmin Shin and Yukyung Choi
-    conference_short: ICCAS
-    conference: International Conference on Control, Automation and Systems (ICCAS) , 2024.
-    pdf: https://ieeexplore.ieee.org/abstract/document/10773092
+  - title: "Multispectral Benchmark Dataset and Baseline for Forklift Collision Avoidance"
+    authors: Hyeongjun Kim*, <strong>Taejoo Kim*</strong>,  Won Jo, Jiwon Kim, Jungmin Shin, Daechan Han, Yujin Hwang and  Yukyung Choi
+    conference_short: Sensors
+    conference: Sensors, 2022.
+    pdf: https://www.mdpi.com/1424-8220/22/20/7953
     code: 
-    image: ./assets/img/publications/iccas.png
+    image: ./assets\img\publications\sensors.webp
+    notes: <strong>(SCIE / Q2 / IF 3.847)</strong>
     
-  - title: "UMHE: Unsupervised Multispectral Homography Estimation"
-    authors: Jeongmin Shin, Jiwon Kim, <strong>Seokjun Kwon</strong>, Namil Kim, Soonmin Hwang, and Yukyung Choi
-    conference_short: IEEE Sensors
-    conference: IEEE Sensors Journal , 2024.
-    pdf: https://ieeexplore.ieee.org/abstract/document/10494213
-    code: https://github.com/sejong-rcv/UMHE
-    image: ./assets/img/publications/umhe.png
-    notes: <strong>(SCIE / Q1 / IF 4.3)</strong>
+  - title: "Instance-Aware Plant Disease Detection by Utilizing Saliency Map and Self-Supervised Pre-Training"
+    authors: <strong>Taejoo Kim*</strong>, Hyeongjun Kim, Kyeonghoon Baik, Yukyung Choi 
+    conference_short: Agriculture
+    conference: Agriculture, 2022.
+    pdf: https://www.mdpi.com/2077-0472/12/8/1084
+    image: ./assets/img/publications/SA.png
+    notes: <strong>(SCIE / Q1 78.33 / IF 3.408)</strong>
 
-  - title: "Unsupervised Domain Adaptation with Mutual Learning for Semantic Segmentation for Thermal Images"
-    authors: <strong>Seokjun Kwon</strong>, Jeongmin Shin, Daechan Han, and Yukyung Choi
-    conference_short: IPIU
-    conference: 35th Workshop on Image Processing and Image Understanding (IPIU). 2023. 
-    pdf: ./assets/files/ipiu_paper.pdf
-    image: ./assets/img/publications/ipiu.png
-    notes: Bronze Prize, <strong>Best Paper Award</strong>
+  - title: "MLPD: Multi-Label Pedestrian Detector in Multispectral Domain"
+    authors: Jiwon Kim*, Hyeongjun Kim*, <strong>Taejoo Kim*</strong>, Namil Kim, Yukyung Choi.
+    conference_short: IROS
+    conference: IEEE Robotics and Automation Letters (RA-L) with IROS, 2021
+    pdf: https://ieeexplore.ieee.org/document/9496129
+    code: https://github.com/sejong-rcv/MLPD-Multi-Label-Pedestrian-Detection
+    image: ./assets\img\publications\MLPD.gif
+    notes: <strong>(SCIE / Q2 69.64 / IF 3.856)</strong>
+    # pdf: ./assets/files/ipiu_paper.pdf
+    # image: ./assets/img/publications/ipiu.png
+    # notes: Bronze Prize, <strong>Best Paper Award</strong>
