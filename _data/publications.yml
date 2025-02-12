@@ -5,6 +5,8 @@ main:
     conference: Korea Robotics Society Annual Conference (KRoC 2025)
     pdf: ./assets\files\KROC.pdf
     code: 
+    image: ./assets\img\publications\KROC.png
+
 
   - title: "6-DOF Object Pose Estimation in Aerosol Conditions: Benchmark Dataset and Baseline"
     authors: Heejin Yang, Seunghyeon Lee, <strong>Taejoo Kim</strong>, Yukyung Choi

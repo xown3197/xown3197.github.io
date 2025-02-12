@@ -8,9 +8,9 @@ Thanks for visiting my website!
 I am a Ph.D. studnet (M.S./PH.D. INTEGRATED PROGRAM) at [Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/). at Sejong University. (Advisor: Prof. [Yukyung Choi](https://scholar.google.com/citations?user=vMrPtrAAAAAJ&hl=en)).
 
 ## Research Interests
-My research has focused on **environment-robust 3D visual perception**, enhancing a robot’s ability to recognize and understand its surroundings in challenging conditions. With recent advancements in generative AI and foundation models, robots are becoming increasingly capable of performing generalizable manipulation tasks beyond specific pre-defined actions.
+My research has focused on **environment-robust 3D visual perception**, aiming to enable robots to recognize and understand their surroundings in challenging conditions. With recent advancements in generative AI and foundation models, I believe that robots are moving closer to performing generalizable manipulation beyond pre-defined tasks.
 
-Building on this progress, I am particularly interested in developing **Physical AI** for indoor environments, integrating **language model programs** and **3D language field** to improve task planning, spatial reasoning, and execution adaptability. My goal is to enable robots to reconstruct task spaces, refine actions through imagination, and maintain robust perception and decision-making even in complex and dynamic environments.
+Building on this progress, I am committed to developing robots that are environment-robust and capable of generalizable manipulation by integrating **language model programs** and **3D language fields**. I believe this approach will enhance task planning, spatial reasoning, and execution adaptability, ultimately allowing robots to interact more effectively in real-world environments.
 
 <!-- 
 - **Embodied AI:** From Perception to Implementation for Indoor Robotics
