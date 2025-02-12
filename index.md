@@ -8,10 +8,15 @@ Thanks for visiting my website!
 I am a Ph.D. studnet (M.S./PH.D. INTEGRATED PROGRAM) at [Robotics and Computer Vision Lab](https://www.rcv.sejong.ac.kr/). at Sejong University. (Advisor: Prof. [Yukyung Choi](https://scholar.google.com/citations?user=vMrPtrAAAAAJ&hl=en)).
 
 ## Research Interests
+I am interested in developing Physical AI that enables robots to perform generalizable manipulation tasks in indoor environments.
+- **Embodied AI:**
+- **Language Model Programs (LMPs) for robot task planning**
+- **Physical AI**
+- **3D Language Field**
 
-My research focuses on developing **Physical AI** that enables robots to perform generalizable manipulation tasks in indoor environments. I integrate **Language Model Programs** (LMPs) and **3D Language Fields** to enhance task planning, spatial reasoning, and execution adaptability through language-friendly 3D representations.
+<!-- I am interested in developing Physical AI that enables robots to perform generalizable manipulation tasks in indoor environments. My research explores the integration of Language Model Programs (LMPs) and 3D Language Fields to enhance task planning, spatial reasoning, and execution adaptability through language-embedded 3D representations.
 
-Through this approach, my goal is to develop robots that reconstruct task spaces, refine actions through imagination, and autonomously adapt to complex tasks.
+Through this approach, I aim to investigate how robots can reconstruct task spaces, refine actions through imagination, and autonomously adapt to complex tasks, improving their ability to interact with dynamic environments. -->
 
 ## News
 
