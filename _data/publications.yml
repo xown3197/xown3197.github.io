@@ -1,20 +1,20 @@
 main:
-  - title: "Research Trends in Manipulator Control Policies Based on LLM and VLM"
-    authors: Jaechan Lee, <strong>Taejoo Kim</strong>, Yukyung Choi
-    conference_short: KRoC
-    conference: Korea Robotics Society Annual Conference (KRoC 2025)
-    pdf: ./assets\files\KROC.pdf
-    code: 
-    image: ./assets\img\publications\KROC.png
+  # - title: "Research Trends in Manipulator Control Policies Based on LLM and VLM"
+  #   authors: Jaechan Lee, <strong>Taejoo Kim</strong>, Yukyung Choi
+  #   conference_short: KRoC
+  #   conference: Korea Robotics Society Annual Conference (KRoC 2025)
+  #   pdf: ./assets\files\KROC.pdf
+  #   code: 
+  #   image: ./assets\img\publications\KROC.png
 
 
-  - title: "6-DOF Object Pose Estimation in Aerosol Conditions: Benchmark Dataset and Baseline"
-    authors: Heejin Yang, Seunghyeon Lee, <strong>Taejoo Kim</strong>, Yukyung Choi
-    conference_short: IJCAS
-    conference: Journal of Institute of Control, Robotics, and Systems, 2024
-    pdf: ./assets\files\IJCAS.pdf
-    code: 
-    image: ./assets\img\publications\IJCAS.png
+  # - title: "6-DOF Object Pose Estimation in Aerosol Conditions: Benchmark Dataset and Baseline"
+  #   authors: Heejin Yang, Seunghyeon Lee, <strong>Taejoo Kim</strong>, Yukyung Choi
+  #   conference_short: IJCAS
+  #   conference: Journal of Institute of Control, Robotics, and Systems, 2024
+  #   pdf: ./assets\files\IJCAS.pdf
+  #   code: 
+  #   image: ./assets\img\publications\IJCAS.png
 
   - title: "INSANet: INtra-INter Spectral Attention Network for Effective Feature Fusion of Multispectral Pedestrian Detection"
     authors: Sangin Lee*,  <strong>Taejoo Kim</strong>, , Jeongmin Shin, Namil Kim and Yukyung Choi

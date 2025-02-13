@@ -25,8 +25,8 @@ Through this approach, I aim to investigate how robots can reconstruct task spac
 
 ## News
 
-- **[Feb. 2025]** Our paper "Research Trends in Manipulator Control Policies Based on LLM and VLM" was accepted to KRoC.
-- **[May. 2024]** Our paper "6-DOF Object Pose Estimation in Aerosol Conditions: Benchmark Dataset and Baseline" was accepted to IJCAS.
+<!-- - **[Feb. 2025]** Our paper "Research Trends in Manipulator Control Policies Based on LLM and VLM" was accepted to KRoC. -->
+<!-- - **[May. 2024]** Our paper "6-DOF Object Pose Estimation in Aerosol Conditions: Benchmark Dataset and Baseline" was accepted to IJCAS. -->
 - **[Feb. 2024]** Our paper "INSANet: INtra-INter Spectral Attention Network for Effective Feature Fusion of Multispectral Pedestrian Detection" was accepted to Sensors.
 - **[Sep. 2022]** Our paper "Multispectral Benchmark Dataset and Baseline for Forklift Collision Avoidance" was accepted to Sensors.
 - **[July. 2022]** Our paper "Instance-Aware Plant Disease Detection by Utilizing Saliency Map and Self-Supervised Pre-Training" was accepted to Agriculture.
